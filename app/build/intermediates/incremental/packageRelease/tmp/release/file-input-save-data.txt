@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Mar 25 16:18:06 IST 2019
+1.base=C\:\\Projects\\Clips\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=cloud_sync.json
+0.set=ASSET
+0.base=C\:\\Projects\\Clips\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+1.path=classes.dex
