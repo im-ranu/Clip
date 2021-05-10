@@ -1,4 +1,7 @@
 # Clip
 A technical news App
 
-![alt text](https://raw.githubusercontent.com/im-ranu/Clip/master/screenshots/img_1.png)
+<p align="center">
+  <img src="screenshot/img_1.jpeg" width="350" title="screen 1">
+</p>
+
